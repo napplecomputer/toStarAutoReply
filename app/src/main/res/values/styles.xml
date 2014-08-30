@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/my_actionbar_style</item>
+    </style>
+    <style name="my_actionbar_style" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/tostar_base</item>
+        <item name="android:titleTextStyle">@style/my_actionbar_titletextstyle</item>
+    </style>
+    <style name="my_actionbar_titletextstyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/tostar_text</item>
+    </style>
+
+</resources>

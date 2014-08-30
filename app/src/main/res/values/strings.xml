@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToStarAutoReply</string>
+    <string name="not_enabled_title">自動返信を有効にする</string>
+    <string name="not_enabled_message">自動返信が無効になっています\n自動返信を有効にするにはチェックボックスの[%s]をONにします</string>
+    <string name="enabled_title">自動返信を無効にする</string>
+    <string name="enabled_message">自動返信が有効になっています\n自動返信を無効にするにはチェックボックスの[%s]をOFFにします</string>
+
+</resources>
